@@ -1,2 +1,2 @@
-# Padavan-build-K2P-R3G
+# Padavan-build
 Padavan 自动编译。
